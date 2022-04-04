@@ -1,5 +1,6 @@
 # SCM-404
-![download](https://user-images.githubusercontent.com/100509432/161585211-3556a241-c65b-406c-ad28-de9b7f50f05b.jpg)
+
+![images](https://user-images.githubusercontent.com/100509432/161586752-1d65e14e-d78f-4818-a2a3-f561ef015618.jpg)
 
 '''
 $ echo "G-404"
@@ -27,6 +28,6 @@ Content in the first column | Content in the second column
 
 <p>
 <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/www.linkedin.com/in/mohit-sharma-火-614198233%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
