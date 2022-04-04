@@ -2,7 +2,8 @@
 
 ![images](https://user-images.githubusercontent.com/100509432/161586752-1d65e14e-d78f-4818-a2a3-f561ef015618.jpg)
 
-``` $ echo "G-404"
+``` 
+$ echo "G-404"
 ```
 
 <h2>This is an official Project Repo made by:</h2>
