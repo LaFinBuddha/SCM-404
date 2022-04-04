@@ -26,6 +26,13 @@ Content in the first column | Content in the second column
 
 
 
+
+
+
+
+
+
+***
 <footer>
 <p>
 <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
