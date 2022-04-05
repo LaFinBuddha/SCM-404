@@ -1,6 +1,6 @@
 # SCM-404
 <p align="center">
-<img src="https://user-images.githubusercontent.com/100509432/161586752-1d65e14e-d78f-4818-a2a3-f561ef015618.jpg" width="500px">
+<img src="https://p4.wallpaperbetter.com/wallpaper/675/540/34/cities-tokyo-architecture-building-wallpaper-preview.jpg" width="400px">
 </p>
 ``` 
 $ echo "G-404"
