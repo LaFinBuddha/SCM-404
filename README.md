@@ -1,9 +1,10 @@
 # SCM-404
+
 <p align="center">
 <img src="https://p4.wallpaperbetter.com/wallpaper/675/540/34/cities-tokyo-architecture-building-wallpaper-preview.jpg" width="400px">
 </p>
-``` 
-$ echo "G-404"
+
+``` $ echo "G-404"
 ```
 
 <h2>This is an official Project Repo made by:</h2>
