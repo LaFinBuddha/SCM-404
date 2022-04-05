@@ -1,7 +1,7 @@
 # SCM-404
-
-![images](https://user-images.githubusercontent.com/100509432/161586752-1d65e14e-d78f-4818-a2a3-f561ef015618.jpg)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/100509432/161586752-1d65e14e-d78f-4818-a2a3-f561ef015618.jpg">
+</p>
 ``` 
 $ echo "G-404"
 ```
